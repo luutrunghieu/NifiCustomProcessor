@@ -1,0 +1,11 @@
+processors/MappingMongo.class
+processors/JsonProcessor.class
+processors/EnrichmentAddress.class
+processors/EnrichmentAddress$2.class
+processors/JsonProcessor$2.class
+processors/MappingMongo$2.class
+processors/JsonProcessor$4.class
+processors/JsonProcessor$3.class
+processors/EnrichmentAddress$1.class
+processors/MappingMongo$1.class
+processors/JsonProcessor$1.class

@@ -1,0 +1,3 @@
+processors.JsonProcessor
+processors.EnrichmentAddress
+processors.MappingMongo
